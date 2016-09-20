@@ -1,2 +1,10 @@
 # Chatapp-using-node.js
-A simple chatapp using node.js and socket.io
+
+With node.js and scoket.io, developing a hat messenger has become quite easy. This repository demostartes how you can build a minimal chat app usin node.js and socket.io
+
+## Requirements
+* node.js
+* Express
+* socket.io
+* MongoDB
+* MongoDB node.js Driver ([link](http://mongodb.github.io/node-mongodb-native/2.2/))
